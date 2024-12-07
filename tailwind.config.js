@@ -22,6 +22,9 @@ export default {
           600: '#AFB0B6',
           500: '#62646C',
         },
+        green: {
+          900: '#004d40',
+        },
       },
       backgroundImage: {
         terminal: "url('/assets/terminal.png')",
